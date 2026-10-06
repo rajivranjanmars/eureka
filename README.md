@@ -8,7 +8,7 @@ Install with `pnpm install`, run `pnpm build`, and load the generated `dist/` di
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
 
 ## Quality checks
 
